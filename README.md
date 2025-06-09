@@ -1,8 +1,22 @@
-# Hi 👋, I'm Isabel
+<h1 align="center">Hi! I’m Isabel 
+<h3 align="center">💻 Computer Science Student | 🚀 Aspiring Software Developer</h3>
 
-### Computer Science Student 💻 | Aspiring Software Developer 🚀
+---
 
+## 🌟 About Me
 
-### Languages and Tools:
+- 🎓 3rd year CS student @ McGill  
+- 🌱 I love exploring new technologies by building useful little things
+- 🧠 Always learning something new
 
-[![Languages and Tools](https://skillicons.dev/icons?i=windows,vscode,py,linux,java,git,eclipse,c)](https://skillicons.dev)
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,py,linux,java,git,eclipse,c" />
+  </a>
+</p>
+
+---
