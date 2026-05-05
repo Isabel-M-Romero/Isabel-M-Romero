@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd year CS student @ McGill  
-- 🌱 I love exploring new technologies by building useful little things  
+- 🎓 CS student @ McGill  
+- 🌱 I love exploring new technologies by building fun little things  
 - 🧠 Always learning something new  
 
 <br><br>
